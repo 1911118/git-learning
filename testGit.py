@@ -5,4 +5,5 @@ else :
     tusty=input("are you thirsty?")
     if tusty.lower() == "yes":
         print("drink water")
+        print("drink soda")
   

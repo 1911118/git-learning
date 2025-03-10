@@ -6,4 +6,8 @@ if hungry.lower() == "y":
     print("eat fries")
     print("eat pasta")
 else :
-    print("Do your homework")
+    tusty=input("are you thirsty?")
+    if tusty.lower() == "yes":
+        print("drink water")
+        print("drink soda")
+  
